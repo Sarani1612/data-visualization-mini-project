@@ -3,3 +3,27 @@
     text-align: center;
     line-height: normal;
 }
+.section-heading, #discipline-selector {
+    display: inline-block;
+    float: none;
+    margin: 0;
+}
+
+.section-heading {
+    margin-bottom: 50px;
+}
+
+
+.section {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 30px 0;
+}
+
+.section-paragraph {
+    line-height: 1.2;
+}
+
+.custom-chart {
+    margin-bottom: 40px;
+}
+
